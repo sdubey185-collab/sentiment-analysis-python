@@ -56,7 +56,7 @@ I also created a **Word Cloud** using negative reviews to identify frequently me
 ### 5️⃣ Word Cloud Visualization
 - Generated a Word Cloud using negative customer reviews.
 - Highlighted frequently occurring words related to product issues, customer service, and purchase dissatisfaction.
-- ![Negative Customer Review Word Cloud](wordcloud.png)
+![Negative Customer Review Word Cloud](Word%20Cloud%20Visualization.png)
 
 ## 📊 Key Findings
 
