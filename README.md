@@ -53,11 +53,11 @@ I also created a **Word Cloud** using negative reviews to identify frequently me
 - Filtered reviews with Negative sentiment.
 - Combined negative feedback to identify frequently occurring words.
 
-### 5️⃣ Word Cloud Visualization
-- Generated a Word Cloud using negative customer reviews.
-- The Word Cloud below highlights the most frequently occurring words in negative customer reviews and helps identify common areas of customer dissatisfaction.
+## ☁️ Word Cloud Visualization
 
-![Negative Customer Review Word Cloud](Word%20Cloud%20Visualization.png)
+The Word Cloud below highlights frequently occurring words in negative customer reviews, helping identify common customer complaints and areas of dissatisfaction.
+
+![Negative Customer Review Word Cloud](https://github.com/sdubey185-collab/sentiment-analysis-python/raw/main/Word%20Cloud%20Visualization.png)
 
 ## 📊 Key Findings
 
