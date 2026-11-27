@@ -66,14 +66,6 @@ The Word Cloud below highlights frequently occurring words in negative customer 
 - 🔴 Words related to frustration and purchase regret highlighted negative customer experiences.
 - 💡 The Word Cloud provided a quick visual summary of recurring customer complaints.
 
-## 📂 Project Files
-
-| File | Description |
-|---|---|
-| `Sentiment_Analysis.csv` | Original customer review dataset |
-| `Sentiment_Analysis_Sameer.xlsx` | Sentiment-labelled Excel dataset |
-| `.ipynb` | Python analysis and visualization notebook |
-
 ## 🎯 What I Learned
 
 - Working with text data using Pandas.
